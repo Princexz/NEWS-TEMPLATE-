@@ -1,0 +1,122 @@
+body{
+    margin:0%;
+    padding: 0%;
+}
+main{
+    margin: 0 auto;
+    width: 35vw;
+    box-shadow: 0 0 3px 0 rgb(0, 0, 0,0.3);
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background: white;
+    font-family: sans-serif;
+}
+.logo{
+    background: #eaaf46;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+img.logo{
+    padding-top: 1%;
+}
+h1.lat{
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 0%;
+    font-size: 50px;
+    font-weight: bolder;
+    color: #eaaf46;
+    margin-top: 2%;
+}
+p.st{
+    text-align: center;
+    margin-top: 0%;
+    font-size: 20px;
+}
+.url{
+    background: url(../image-assets/hero.jpg);
+    background-position:center;
+    background-size:cover;
+    padding: 25% 20px;
+    margin: 10px;
+}
+h2.wh{
+    text-transform: uppercase;
+    font-size: 32px;
+    padding: 20px 20px 5px;
+    margin-bottom: 0%;
+}
+
+h4.sea{
+    margin-bottom: 0%;
+    font-weight: bolder;
+    font-size: 17px;
+}
+p.sup{
+    margin:2% 0% 5% 0;
+    text-align: left;
+    font-weight:500;
+}
+a.hr{
+    text-decoration: none;
+    background:#eaaf46;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+a.hr:hover{
+    background:white;
+    color: #eaaf46;
+    border-radius: 5px;
+    border: 1px solid #eaaf46;
+}
+.ft{
+    background: #eaaf46;
+    margin-top: 3%;
+}
+h5.so{
+    margin: 0%;
+    padding-top: 2%;
+    text-align: center;
+    color: white;
+    padding-bottom: 1%;
+}
+.socail-media{
+    text-align: center;
+    padding-bottom: 2%;
+}
+a{
+    padding: 5px;
+}
+ul{
+    display: inline;
+    list-style: none;
+    padding-left: 10px;
+    margin: 0%;
+}
+ul li{
+    display: inline-block; 
+    margin-top: 3%;   
+    margin-bottom: 3%;
+}
+li a.p{
+    text-decoration: none;
+    padding: 3px;
+    color: black;
+    font-size: 14px;
+}
+li a.p:hover{
+    background:white;
+    color: #eaaf46;
+    border-radius: 5px;
+    border: 1px solid #eaaf46;
+}
+hr{
+    width: 90%;
+    border-color: #eaaf46;
+    margin: 0% auto;
+}
+article.row{
+    margin: 2% 0 2% 0;
+}
